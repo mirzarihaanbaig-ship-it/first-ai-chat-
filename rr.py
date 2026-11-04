@@ -4,6 +4,7 @@ from groq import Groq
 st.set_page_config(page_title="My AI Chatbot", page_icon="🤖")
 
 st.title("🤖 AI Study Assistant Chatbot")
+st.caption("CREATED BY MIRZA RIHAAN BAIG")
 st.write("Ask me anything about your studies or coding!")
 
 # 1. Initialize the Groq client 
